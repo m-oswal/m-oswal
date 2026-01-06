@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @m-oswal
-- 👀 I’m interested in cloud computing and ai/ml
-- 🌱 I’m currently learning amazon web services
+- 👋 Hi, I’m Moksh Oswal
+- 👀 I’m interested in aiml and cybersecurity
 - 📫 linkdein : https://www.linkedin.com/in/moksh-oswal/
 
 
